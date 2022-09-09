@@ -2,7 +2,7 @@
 
 /**
  * main - c program that prints
- * 
+ *
  * Return: Always 0 (Success)
  */
 int main(void)
