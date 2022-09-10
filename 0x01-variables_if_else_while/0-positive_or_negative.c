@@ -1,9 +1,11 @@
-#include <studio.h>
+#include <stdlib.h>
 #include <time.h>
+#include <studio.h>
+
 /**
-*main - prints whether the number stored in the variable is positive or negative
+* main - prints whether the number stored in the variable is positive or negative
 *
-*Return: 0
+* Return: 0
 */
 int main(void)
 {
