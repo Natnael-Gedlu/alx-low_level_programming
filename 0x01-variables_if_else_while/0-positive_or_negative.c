@@ -1,10 +1,10 @@
 #include <studio.h>
 #include <time.h>
-/* *
- *main - prints whether the number stored in the variable is positive or negative
- *
- *Return: Always (Success)
- */ 
+/**
+*main - prints whether the number stored in the variable is positive or negative
+*
+*Return: 0
+*/
 int main(void)
 {
 	int n;
