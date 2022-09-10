@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
-* main - prints whether the number stored in the variable is positive or negative
+* main - prints the number stored in the variable is +ve or -ve
 *
 * Return: 0
 */
