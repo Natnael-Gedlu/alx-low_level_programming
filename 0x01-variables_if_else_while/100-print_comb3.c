@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include<stdio.h>
 
 /**
 * main - prints all possible different combinations of two digits
@@ -21,7 +21,7 @@ int main(void)
 				putchar((b / 10) + '0');
 				putchar((b % 10) + '0');
 
-				if (i != 98)
+				if (a != 98)
 				{
 					putchar(',');
 					putchar(' ');
