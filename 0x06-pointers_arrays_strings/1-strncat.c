@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- *_strcat - concatenates one string to another string
+ *_strncat - concatenate two strings
  *@dest: original string
  *@src: new string`
- *
+ *@n: amount of bytes used from src
  * Return: returns poiner to dest
  */
 
