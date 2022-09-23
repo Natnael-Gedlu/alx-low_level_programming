@@ -5,6 +5,7 @@
  * But for multiples of three print "Fizz",
  * And for the multiples of five print "Buzz"
  *
+ * Return: always 0
  */
 
 int main(void)
