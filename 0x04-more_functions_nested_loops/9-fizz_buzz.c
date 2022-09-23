@@ -2,9 +2,9 @@
 
 /**
  * main - prints numbers from 1-100,
- * But for multiples of three print "Fizz"
+ * But for multiples of three print "Fizz",
  * And for the multiples of five print "Buzz"
- * 
+ *
  */
 
 int main(void)
