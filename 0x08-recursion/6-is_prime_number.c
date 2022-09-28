@@ -1,14 +1,14 @@
 #include "main.h"
 
+int is_divisible(int x, int y);
+int is_prime_number(int n);
+
 /**
  * is_divisible - checks if 'x' is divisible
  * @x: number checked if divisible or not
  * @y: the divisor
  * Return: (1) if x is divisible else (0)
  */
-
-int is_divisible(int x, int y);
-int is_prime_number(int n);
 
 int is_divisible(int x, int y)
 {
