@@ -11,14 +11,14 @@
 
 int main(int argc, char *argv[])
 {
-int x, y;
+int a, b;
 if (argc == 3)
 {
-x = atoi(argv[1]);
-y = atoi(argv[2]);
-printf("%d\n", x *y);
+a = atoi(argv[1]);
+b = atoi(argv[2]);
+printf("%d\n", a *b);
 return (0);
 }
-print("Error\n");
+printf("Error\n");
 return (1);
 }
