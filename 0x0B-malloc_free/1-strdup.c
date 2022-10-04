@@ -9,7 +9,7 @@
  * Return: (pointer) else (NULL)
  */
 
-char *_strdup(char *str);
+char *_strdup(char *str)
 {
 	char *dup;
 	int index, len;
