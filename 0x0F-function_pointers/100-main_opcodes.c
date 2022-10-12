@@ -1,4 +1,3 @@
-#include "function_pointers.h"
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -30,7 +29,7 @@ int main(int argc, char *argv[])
 
 	arr = (char *)main;
 
-	for (i = o; i < bytes; i++)
+	for (i = 0; i < bytes; i++)
 	{
 		if (i == bytes - 1)
 		{
