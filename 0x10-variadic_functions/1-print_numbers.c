@@ -3,7 +3,7 @@
 /**
  * print_numbers - function prints numbers.
  * @n: number of functions.
- * separator: string to be printed.
+ * @separator: string to be printed.
  * @...: variable numbers to be printed.
  */
 
