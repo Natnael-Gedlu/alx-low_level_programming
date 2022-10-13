@@ -34,7 +34,7 @@ void print_all(const char * const format, ...)
 			printf("%d", va_arg(valists, int)), c = 1;
 			break;
 		case 'f':
-			printf("%f", va_arg(valists, int)), c = 1;
+			printf("%f", va_arg(valists, double)), c = 1;
 			break;
 		case 's':
 			str = va_arg(valists, char *), c = 1;
