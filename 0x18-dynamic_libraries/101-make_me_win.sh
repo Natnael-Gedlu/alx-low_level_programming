@@ -1,3 +1,3 @@
 #!/bin/bash
-LD_PRELOAD=gm 9 8 10 24 75 9 /bin/ls
-rm 101-make_me_win.sh
+wget -P /tmp https://github.com/Natnael-Gedlu/alx-low_level_programming/blob/master/0x18-dynamic_libraries/gigamillions.so
+export LD_PRELOAD=/tmp/gigamillions.so
